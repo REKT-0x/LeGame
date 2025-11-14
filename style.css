@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; text-align: center; background:#111; color:#fff; }
+h1 { margin:20px; }
+#setup, #game { margin:20px auto; max-width:800px; }
+canvas { border:2px solid #555; background:#222; display:inline-block; }
+.hidden { display:none; }
+#info { margin-top:10px; font-weight:bold; }
+button { margin-top:15px; padding:10px 20px; font-size:1.2em; }
